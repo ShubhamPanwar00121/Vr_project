@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 857b9001fd1869a498bea058cbf64a1b
+timeCreated: 1557152415
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/ChessEngine/Pieces/Queen.cs
+  uploadId: 682047

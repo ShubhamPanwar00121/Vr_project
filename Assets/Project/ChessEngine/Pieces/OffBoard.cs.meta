@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9f1b5fbd8a449064abc81f726bb540f6
+timeCreated: 1568890664
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/ChessEngine/Pieces/OffBoard.cs
+  uploadId: 682047

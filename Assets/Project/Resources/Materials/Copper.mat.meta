@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 740b364a4c0904c8e9b61c1af5feff8b
+timeCreated: 1500144270
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Resources/Materials/Copper.mat
+  uploadId: 682047

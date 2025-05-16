@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0faa0bed35aa1a45925bb57a95c842b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Black Rook.prefab
+  uploadId: 682047

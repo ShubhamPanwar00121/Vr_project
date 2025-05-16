@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c7ee895d85d924542bcd563f6bcc1b85
+timeCreated: 1568981140
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Chess3D/Game/Spawner.cs
+  uploadId: 682047

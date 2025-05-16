@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a5f51ade0b9d9a4fb745d7972232038
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Scripts/ChessEngine.cs
+  uploadId: 682047

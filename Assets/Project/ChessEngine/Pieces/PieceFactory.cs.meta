@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2e84220f753accb409b8bd4385e79787
+timeCreated: 1568890664
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/ChessEngine/Pieces/PieceFactory.cs
+  uploadId: 682047

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e4be35a2a89f4a428ed1b592f67ec7a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Snap Sphere.prefab
+  uploadId: 682047

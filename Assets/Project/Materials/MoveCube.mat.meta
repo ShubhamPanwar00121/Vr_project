@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 084c72f40a176514eb7bc6b720de237f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Materials/MoveCube.mat
+  uploadId: 682047

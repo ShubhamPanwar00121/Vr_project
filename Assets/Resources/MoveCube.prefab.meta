@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 82c4f5056daf574408a2853f66c00585
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Resources/MoveCube.prefab
+  uploadId: 682047

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 208f6d73b4be56d45a15ee63cd36b3d6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Black King.prefab
+  uploadId: 682047

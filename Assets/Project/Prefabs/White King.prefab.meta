@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 843c967f4d6465040bea28c216f669c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/White King.prefab
+  uploadId: 682047

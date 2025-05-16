@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03262846996f23540af933d9e849be1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Resources/aiLastMove.mat
+  uploadId: 682047

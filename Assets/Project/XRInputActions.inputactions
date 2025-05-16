@@ -1,0 +1,74 @@
+{
+    "name": "XRInputActions",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "68d49f3d-c76e-4595-8a85-e513ae93a738",
+            "actions": [
+                {
+                    "name": "HandMenuToggle",
+                    "type": "Button",
+                    "id": "1742f1cd-a550-497b-945d-143a9ebe9834",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ResetPieces",
+                    "type": "Button",
+                    "id": "01a11299-33e9-47d9-8bdb-7c7da6c26f5d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "DestroyPieces",
+                    "type": "Button",
+                    "id": "226ac376-050c-4987-a4dc-e1cc54b1c178",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "83f365f9-eedb-47d9-9472-adf4b0619596",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HandMenuToggle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "496c3a9e-b1f9-44a1-a79a-d191fdf10948",
+                    "path": "<XRController>{RightHand}/triggerButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DestroyPieces",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5d0bc95a-b634-4af9-9c5f-0e76b3cbcf74",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ResetPieces",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

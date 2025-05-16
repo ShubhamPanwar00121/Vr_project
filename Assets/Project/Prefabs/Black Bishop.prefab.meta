@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca077640dda6fd74cbbc4dd6492ee964
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Black Bishop.prefab
+  uploadId: 682047

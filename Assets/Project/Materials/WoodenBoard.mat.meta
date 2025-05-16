@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3aa19d334b39474495236e87ac1326b
+timeCreated: 1500148735
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Materials/WoodenBoard.mat
+  uploadId: 682047

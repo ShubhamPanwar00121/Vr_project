@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 313f553aa0767f748afb5cc6624fe5af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Resources/GoodMove.prefab
+  uploadId: 682047

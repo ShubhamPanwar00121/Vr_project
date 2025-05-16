@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11490c85637dff04587ef41a8582f661
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/White Knight.prefab
+  uploadId: 682047

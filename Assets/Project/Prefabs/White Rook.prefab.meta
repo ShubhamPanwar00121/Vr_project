@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2320a6166262871459f1de16dce1d99b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/White Rook.prefab
+  uploadId: 682047

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d4253bfce576d2d4c8d3d22378390dee
+timeCreated: 1557152425
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/ChessEngine/Pieces/Knight.cs
+  uploadId: 682047

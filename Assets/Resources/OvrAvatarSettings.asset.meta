@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 81bc16ff7feba4c4a82ce662ddefa843
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Resources/OvrAvatarSettings.asset
+  uploadId: 682047

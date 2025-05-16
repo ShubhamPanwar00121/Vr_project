@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 464e28157e504f74cb5607b25699473b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/White Queen.prefab
+  uploadId: 682047

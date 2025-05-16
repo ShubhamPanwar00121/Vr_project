@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c246676d2574b1f42b110bab77d8dac7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Black Pawn.prefab
+  uploadId: 682047

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cda7da941a2191c4ebd9e9b611e696d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/White Bishop.prefab
+  uploadId: 682047

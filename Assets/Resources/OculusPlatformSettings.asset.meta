@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d6fdeef1319a5547af08e5231861037
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Resources/OculusPlatformSettings.asset
+  uploadId: 682047

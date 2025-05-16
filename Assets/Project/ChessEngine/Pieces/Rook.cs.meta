@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 154af2afdb69a9646ad842a9c5a2a46d
+timeCreated: 1557152401
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/ChessEngine/Pieces/Rook.cs
+  uploadId: 682047

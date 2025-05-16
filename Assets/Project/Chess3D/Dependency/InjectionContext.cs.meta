@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b19a2c75e2e53dc42af767a322dc6875
+timeCreated: 1568994720
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Chess3D/Dependency/InjectionContext.cs
+  uploadId: 682047

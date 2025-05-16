@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26800bd8bbb96415d92daf45a8eb3c69
+timeCreated: 1500152930
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Resources/Materials/ChessBoard.mat
+  uploadId: 682047

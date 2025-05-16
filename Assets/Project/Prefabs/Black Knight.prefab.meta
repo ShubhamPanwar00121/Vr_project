@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 979dfd7066b001940a8508a17c412d89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Black Knight.prefab
+  uploadId: 682047

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbfc1441ec3d5344bb9949a2eaa4eaa1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/White Pawn.prefab
+  uploadId: 682047

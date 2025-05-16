@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 25c0e312e535ed441bfc51638b180575
+timeCreated: 1568907077
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Chess3D/Players/IPlayer.cs
+  uploadId: 682047

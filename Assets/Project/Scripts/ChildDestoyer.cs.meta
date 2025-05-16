@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4fa3e1e3d9c38c4448ec93e7b786888f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Scripts/ChildDestoyer.cs
+  uploadId: 682047

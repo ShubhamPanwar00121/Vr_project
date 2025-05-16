@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a572825be0a59eb4ba915dd883d872d3
+timeCreated: 1568981140
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/ChessEngine/Logic/Perft.cs
+  uploadId: 682047

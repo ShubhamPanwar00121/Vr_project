@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 064e8de49828cbb48b9c36f9ee53c30c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Materials/WoodenWhite.mat
+  uploadId: 682047

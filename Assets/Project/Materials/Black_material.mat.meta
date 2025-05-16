@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10a22eed17337084bac6415112d5fdd9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Materials/Black_material.mat
+  uploadId: 682047

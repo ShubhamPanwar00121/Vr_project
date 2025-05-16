@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0ed95b54492cd543b5c104964d93d65
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Prefabs/Black Queen.prefab
+  uploadId: 682047

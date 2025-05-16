@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58c9d7f4b68ad954989a2c97daf546b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278321
+  packageName: Chess XR Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Project/Materials/Lead.physicMaterial
+  uploadId: 682047
